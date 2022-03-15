@@ -9,14 +9,14 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-- 🧠 Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-- 🤔 I use daily ```.js```,``` .py```, ```.html```
-- 🛠 I’m currently learning about **deep learning**🥰<br>
-- 🔥 I use to write coad on **[leetcode](https://leetcode.com/monumishra326/)** <br>
-- 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
-- ⚡ I’m looking for help with anything **I am currently learning! 😅**.
-- 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
-- ✍️ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br>
+Motivated, adaptable, and responsible Mechanical
+Engineer turned into a Full Stack Developer seeking a
+position that utilizes technical and professional skills. Strong drive to see things to completion. Aiming to
+work with an organization that will help in showcasing
+my knowledge and skills following the latest
+technologies and be a part of a team that
+dynamically works towards the growth of the
+organization.
 
 
  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
