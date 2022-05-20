@@ -83,7 +83,7 @@ organization.
 <p align="center"><img src="https://profile-counter.glitch.me/{monumishra326}/count.svg" alt="monumishra326 :: Visitor's Count" /></p>
 
 <hr>
-<p align="right">
+<p align="left">
  <img  width=250px height=250px alt="side_sticker" src="https://media4.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e4743jvvhczw7e33lid8fqbp59lvcc5a1nscbrl17sw&rid=giphy.gif&ct=g" />
   
 </p>
