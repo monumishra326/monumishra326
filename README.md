@@ -84,7 +84,7 @@ organization.
 
 <hr>
 <p align="left">
- <img  width=250px height=250px alt="side_sticker" src="https://media4.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e4743jvvhczw7e33lid8fqbp59lvcc5a1nscbrl17sw&rid=giphy.gif&ct=g" />
+ <img  width=250px height=250px alt="side_sticker" src="https://c.tenor.com/2gfRHLv6GZ8AAAAd/code-coding.gif" />
   
 </p>
 
