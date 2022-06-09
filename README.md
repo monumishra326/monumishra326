@@ -10,7 +10,7 @@
 <hr>
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"">&nbsp;***About me ....***
 
 Motivated, adaptable, and responsible Mechanical
 Engineer turned into a Full Stack Developer seeking a
